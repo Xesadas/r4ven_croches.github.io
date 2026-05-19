@@ -3,8 +3,8 @@ window.MM_DATA = {
   artist: {
     name: "Raven Crochês",
     handle: "@r4ven.vmp",
-    igUrl: "https://instagram.com/r4ven.vmp",
-    waUrl: "https://wa.me/?text=Oi%20Raven%2C%20vim%20pelo%20site%20%E2%9C%A6",
+    igUrl: "https://www.instagram.com/r4ven.vmp/",
+    waUrl: "https://wa.me/556293736614",
     tagline: "amigurumis & croché com alma",
     sub: "feito à mão por uma estudante de arte do IFG — cada peça carrega um pedacinho de mim.",
   },

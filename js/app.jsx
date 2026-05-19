@@ -3,7 +3,7 @@ const { useState, useEffect, useRef, useMemo } = React;
 
 const THEME = window.__THEME || 'rosa';
 const isDark = THEME === 'gotico';
-const altUrl = isDark ? 'Raven Crochês - Rosa.html' : 'Raven Crochês - Gotico.html';
+const altUrl = isDark ? 'index.html' : 'gotico.html';
 const altLabel = isDark ? 'modo rosa' : 'modo noir';
 
 // ============ HEADER ============
